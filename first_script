@@ -1,3 +1,4 @@
 #!/bin/bash
 date
 uptime
+echo " Integrated with Git"
