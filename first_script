@@ -3,3 +3,4 @@ date
 uptime
 echo " Integrated with Git"
 date
+echo "Successfull"
