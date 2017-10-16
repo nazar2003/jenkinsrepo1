@@ -5,3 +5,4 @@ echo " Integrated with Git"
 date
 echo "Successfull"
 echo "Added one more line "
+echo "Integrated Slack"
