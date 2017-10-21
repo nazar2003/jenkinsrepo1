@@ -1,0 +1,16 @@
+pipeline {
+    agent {
+        label "maven"
+    }
+    stages {
+        stage ("say Hello") {
+            steps {
+                sh "echo Hello World"
+            }
+        }
+        stage ("say goodby") {
+            steps {
+                sh "echo Hello closing"
+            }
+        }
+    }
