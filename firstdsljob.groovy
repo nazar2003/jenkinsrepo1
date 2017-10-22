@@ -46,7 +46,7 @@ url('https://github.com/nazar2003/New_Repo.git')
         }
   
           }
-triggers{
-githubPush()
-}                  
+ttriggers{
+scm(){}
+}         
 }
