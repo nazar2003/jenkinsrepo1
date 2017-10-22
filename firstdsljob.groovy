@@ -1,7 +1,7 @@
 freeStyleJob('testing') {
 
   steps {
-    shell('echo date')
+    shell('date;uname -a')
         
     }
   
