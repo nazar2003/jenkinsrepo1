@@ -39,7 +39,7 @@ cpsScm {
 scm{
 git{
 remote{
-url(https://github.com/nazar2003/New_Repo.git)
+url('https://github.com/nazar2003/New_Repo.git')
        }
    }
    }
